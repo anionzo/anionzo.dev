@@ -62,12 +62,12 @@ const vi = {
         {
           icon: "FaFacebook",
           title: "Mai Trung Tiến",
-          link: "https://facebook.com/aionzo/",
+          link: "https://facebook.com/anionzo/",
         },
         {
           icon: "FaGithub",
           title: "Mai Trung Tiến",
-          link: "https://github.com/aionzo",
+          link: "https://github.com/anionzo",
         },
       ],
     },
