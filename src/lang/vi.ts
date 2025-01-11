@@ -23,23 +23,23 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:maitrungtien2002@gmail.com",
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/anionzo/",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
+        link: "https://github.com/anionzo",
       },
       {
         icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
+        link: "https://gitlab.com/anionzo",
       },
       {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/anionzo",
       },
       
     ],
@@ -49,25 +49,25 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là Mai Trung Tiến",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
-      image: "/assets/images/hwz.ngn.jpg",
+        "123456",
+      image: "https://github.com/anionzo.png",
       links: [
-        {
-          icon: "HiOutlineNewspaper",
-          title: "Resume",
-          link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
-        },
+        // {
+        //   icon: "HiOutlineNewspaper",
+        //   title: "Resume",
+        //   link: "https://github.com/howznguyen/my-resume/blob/main/pdf/cv_en_vi_howznguyen.pdf",
+        // },
         {
           icon: "FaFacebook",
-          title: "howznguyen",
-          link: "https://facebook.com/howznguyen/",
+          title: "Mai Trung Tiến",
+          link: "https://facebook.com/aionzo/",
         },
         {
           icon: "FaGithub",
-          title: "howznguyen",
-          link: "https://github.com/howznguyen",
+          title: "Mai Trung Tiến",
+          link: "https://github.com/aionzo",
         },
       ],
     },
