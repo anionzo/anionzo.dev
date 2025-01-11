@@ -57,7 +57,7 @@ const en = {
       header: "Hi, I'm Mi Miêu",
       description:
         "1234",
-      image: "/assets/images/hwz.ngn.jpg",
+      image: "https://github.com/anionzo.png",
       links: [
         // {
         //   icon: "HiOutlineNewspaper",
